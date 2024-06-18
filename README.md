@@ -9,11 +9,8 @@
 ### Description of MGC
 원형 벡터를 이용해 클러스터링 구조에 대해 형상화하는 **k-means, LVQ**와는 달리 **확률 모델을 이용해** 클러스터의 프로토타입을 표현하는 알고리즘
 
-![test](./img/수도코드 캡처_영어.png)  
-!(/img/수도코드 캡처_영어.png)  
-!(img/수도코드 캡처_영어.png)  
-![수도코드 캡처_영어](https://github.com/AAuhsoj/ML_final_project/assets/141807643/1279518a-629d-41db-9533-7338f3d4ae62)  
-
+![수도코드 캡처_영어](./img/수도코드_캡처_영문.png)
+<br>
 <br>
 
 ### 코드 설명
@@ -33,16 +30,17 @@
 
 #### Process  
 1. Initialize the parameters  
-   ![1번 라인](https://github.com/AAuhsoj/ML_final_project/assets/141807643/63aff12d-b65a-4bb3-a875-780d1da15d78)  
+   
+   ![1번_라인](https://github.com/AAuhsoj/ML_final_project/assets/141807643/63aff12d-b65a-4bb3-a875-780d1da15d78)  
    <br>
    가우시안 혼합분포의 모델 파라미터를 초기화한다.  
 
 <br>
 
-2.  The E-step of the EM algorithm  
+1.  The E-step of the EM algorithm  
    ![estep](https://github.com/AAuhsoj/ML_final_project/assets/141807643/4a628298-433b-4b0d-9c26-87f953648d3b)  
    <br>
-   아래 식(9.30)에 따라 x_j가 각 혼합 성분에 의해 생성될 사후확률을 계산한다.
+   아래 식(9.30)에 따라 x_j가 각 혼합 성분에 의해 생성될 사후확률을 계산한다.  
    ![사후확률](https://github.com/AAuhsoj/ML_final_project/assets/141807643/677ec405-db13-45f7-81f9-b1b0bc18f0dd)
 
 
@@ -73,10 +71,5 @@
 <br>
 
 (실행 코드의 자세한 설명은 ipynb파일에 기술되어 있습니다.)
-
-
-
-
-
 
 
