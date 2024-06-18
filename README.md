@@ -41,7 +41,7 @@
    ![estep](https://github.com/AAuhsoj/ML_final_project/assets/141807643/4a628298-433b-4b0d-9c26-87f953648d3b)  
    <br>
    아래 식(9.30)에 따라 x_j가 각 혼합 성분에 의해 생성될 사후확률을 계산한다.  
-   ![사후확률](https://github.com/AAuhsoj/ML_final_project/assets/141807643/677ec405-db13-45f7-81f9-b1b0bc18f0dd)
+   ![사후확률](./img/사후확률.png)  
 
 
 <br>
