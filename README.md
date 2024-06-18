@@ -12,7 +12,7 @@
 ![test](./img/수도코드 캡처_영어.png)  
 !(/img/수도코드 캡처_영어.png)  
 !(img/수도코드 캡처_영어.png)  
-!(C:/Users/User/Desktop/vscode/img/수도코드 캡처_영어.png)
+![수도코드 캡처_영어](https://github.com/AAuhsoj/ML_final_project/assets/141807643/1279518a-629d-41db-9533-7338f3d4ae62)  
 
 <br>
 
@@ -33,22 +33,22 @@
 
 #### Process  
 1. Initialize the parameters  
-   !(.img/1번 라인.png)  
+   ![1번 라인](https://github.com/AAuhsoj/ML_final_project/assets/141807643/63aff12d-b65a-4bb3-a875-780d1da15d78)  
    <br>
    가우시안 혼합분포의 모델 파라미터를 초기화한다.  
 
 <br>
 
 2.  The E-step of the EM algorithm  
-   !(img/estep.png)  
+   ![estep](https://github.com/AAuhsoj/ML_final_project/assets/141807643/4a628298-433b-4b0d-9c26-87f953648d3b)  
    <br>
    아래 식(9.30)에 따라 x_j가 각 혼합 성분에 의해 생성될 사후확률을 계산한다.  
-   !(.img/사후확률.png)
+   ![사후확률](https://github.com/AAuhsoj/ML_final_project/assets/141807643/677ec405-db13-45f7-81f9-b1b0bc18f0dd)  
 
 <br>
 
 3. The M-step of the EM algorithm  
-   !(.img/mstep.png)  
+   ![mstep](https://github.com/AAuhsoj/ML_final_project/assets/141807643/ea78d5b1-f947-41c6-826b-be4a3a4f682c)  
 
    EM 알고리즘과 계산된 사후 확률을 통해 모델 파라미터를 갱신한다.
 
@@ -59,13 +59,13 @@
 <br>
 
 5. 반복이 종료되면 얻어진 가우시안 혼합분포에 따라 클러스터 분할을 결정하고 최종 결과를 반환한다.  
-   !(.img/레이블 결정.png)  
+   ![레이블 결정](https://github.com/AAuhsoj/ML_final_project/assets/141807643/59a88df2-1770-4d6b-bee0-614f5d0d7598)  
 
 <br>
 
 ### 결과 비교
 - 과제로 작성한 코드의 클러스터링 결과  
-  !(.img/결과.png)  
+  ![결과](https://github.com/AAuhsoj/ML_final_project/assets/141807643/dd54ad7b-a48a-4798-8011-0f5d3fab93c2)  
 
 
 <br>
