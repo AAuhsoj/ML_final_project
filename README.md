@@ -9,7 +9,7 @@
 ### Description of MGC
 원형 벡터를 이용해 클러스터링 구조에 대해 형상화하는 **k-means, LVQ**와는 달리 **확률 모델을 이용해** 클러스터의 프로토타입을 표현하는 알고리즘
 
-!(./img/수도코드 캡처_영어.png)  
+![test](./img/수도코드 캡처_영어.png)  
 !(/img/수도코드 캡처_영어.png)  
 !(img/수도코드 캡처_영어.png)  
 !(C:/Users/User/Desktop/vscode/img/수도코드 캡처_영어.png)
